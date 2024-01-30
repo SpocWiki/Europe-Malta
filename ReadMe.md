@@ -108,8 +108,8 @@ id: Malta
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Malta//
-markerFolder: ./Malta/
+geojsonFolder: .//
+markerFolder: ./
 ```
 
 [name-en::Malta] 
