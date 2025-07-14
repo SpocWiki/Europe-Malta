@@ -40,11 +40,16 @@ markerFolder: ./Fgura/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Fgura|Fgura]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Fgura.public|Fgura.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Fgura.internal|Fgura.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Fgura.protect|Fgura.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Fgura.private|Fgura.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Fgura.personal|Fgura.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Fgura.secret|Fgura.secret]] 
+
+### [Fgura.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkFgura.public.md) 
+
+### [Fgura.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkFgura.internal.md) 
+
+### [Fgura.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkFgura.protect.md) 
+
+### [Fgura.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkFgura.private.md) 
+
+### [Fgura.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkFgura.personal.md) 
+
+### [Fgura.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkFgura.secret.md)
 

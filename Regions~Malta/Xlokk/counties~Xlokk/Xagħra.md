@@ -40,11 +40,16 @@ markerFolder: ./Xagħra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Xagħra|Xagħra]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Xagħra.public|Xagħra.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Xagħra.internal|Xagħra.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Xagħra.protect|Xagħra.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Xagħra.private|Xagħra.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Xagħra.personal|Xagħra.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Xagħra.secret|Xagħra.secret]] 
+
+### [Xagħra.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkXagħra.public.md) 
+
+### [Xagħra.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkXagħra.internal.md) 
+
+### [Xagħra.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkXagħra.protect.md) 
+
+### [Xagħra.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkXagħra.private.md) 
+
+### [Xagħra.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkXagħra.personal.md) 
+
+### [Xagħra.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkXagħra.secret.md)
 

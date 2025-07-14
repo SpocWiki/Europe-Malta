@@ -40,11 +40,16 @@ markerFolder: ./Għajnsielem/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Għajnsielem|Għajnsielem]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Għajnsielem.public|Għajnsielem.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Għajnsielem.internal|Għajnsielem.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Għajnsielem.protect|Għajnsielem.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Għajnsielem.private|Għajnsielem.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Għajnsielem.personal|Għajnsielem.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Għajnsielem.secret|Għajnsielem.secret]] 
+
+### [Għajnsielem.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexGħajnsielem.public.md) 
+
+### [Għajnsielem.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexGħajnsielem.internal.md) 
+
+### [Għajnsielem.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexGħajnsielem.protect.md) 
+
+### [Għajnsielem.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexGħajnsielem.private.md) 
+
+### [Għajnsielem.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexGħajnsielem.personal.md) 
+
+### [Għajnsielem.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexGħajnsielem.secret.md)
 

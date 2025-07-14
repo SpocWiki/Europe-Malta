@@ -40,11 +40,16 @@ markerFolder: ./Xewkija/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Xewkija|Xewkija]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Xewkija.public|Xewkija.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Xewkija.internal|Xewkija.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Xewkija.protect|Xewkija.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Xewkija.private|Xewkija.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Xewkija.personal|Xewkija.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Xewkija.secret|Xewkija.secret]] 
+
+### [Xewkija.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexXewkija.public.md) 
+
+### [Xewkija.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexXewkija.internal.md) 
+
+### [Xewkija.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexXewkija.protect.md) 
+
+### [Xewkija.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexXewkija.private.md) 
+
+### [Xewkija.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexXewkija.personal.md) 
+
+### [Xewkija.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexXewkija.secret.md)
 

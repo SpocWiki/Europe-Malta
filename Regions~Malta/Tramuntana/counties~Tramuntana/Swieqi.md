@@ -40,11 +40,16 @@ markerFolder: ./Swieqi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Swieqi|Swieqi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Swieqi.public|Swieqi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Swieqi.internal|Swieqi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Swieqi.protect|Swieqi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Swieqi.private|Swieqi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Swieqi.personal|Swieqi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Swieqi.secret|Swieqi.secret]] 
+
+### [Swieqi.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSwieqi.public.md) 
+
+### [Swieqi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSwieqi.internal.md) 
+
+### [Swieqi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSwieqi.protect.md) 
+
+### [Swieqi.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSwieqi.private.md) 
+
+### [Swieqi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSwieqi.personal.md) 
+
+### [Swieqi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSwieqi.secret.md)
 

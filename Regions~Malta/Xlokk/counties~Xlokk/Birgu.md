@@ -40,11 +40,16 @@ markerFolder: ./Birgu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Birgu|Birgu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Birgu.public|Birgu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Birgu.internal|Birgu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Birgu.protect|Birgu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Birgu.private|Birgu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Birgu.personal|Birgu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Birgu.secret|Birgu.secret]] 
+
+### [Birgu.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkBirgu.public.md) 
+
+### [Birgu.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkBirgu.internal.md) 
+
+### [Birgu.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkBirgu.protect.md) 
+
+### [Birgu.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkBirgu.private.md) 
+
+### [Birgu.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkBirgu.personal.md) 
+
+### [Birgu.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkBirgu.secret.md)
 

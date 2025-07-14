@@ -40,11 +40,16 @@ markerFolder: ./Għargħur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Għargħur|Għargħur]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Għargħur.public|Għargħur.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Għargħur.internal|Għargħur.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Għargħur.protect|Għargħur.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Għargħur.private|Għargħur.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Għargħur.personal|Għargħur.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Għargħur.secret|Għargħur.secret]] 
+
+### [Għargħur.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaGħargħur.public.md) 
+
+### [Għargħur.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaGħargħur.internal.md) 
+
+### [Għargħur.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaGħargħur.protect.md) 
+
+### [Għargħur.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaGħargħur.private.md) 
+
+### [Għargħur.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaGħargħur.personal.md) 
+
+### [Għargħur.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaGħargħur.secret.md)
 

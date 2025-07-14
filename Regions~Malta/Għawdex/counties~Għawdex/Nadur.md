@@ -40,11 +40,16 @@ markerFolder: ./Nadur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Nadur|Nadur]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Nadur.public|Nadur.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Nadur.internal|Nadur.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Nadur.protect|Nadur.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Nadur.private|Nadur.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Nadur.personal|Nadur.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Nadur.secret|Nadur.secret]] 
+
+### [Nadur.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexNadur.public.md) 
+
+### [Nadur.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexNadur.internal.md) 
+
+### [Nadur.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexNadur.protect.md) 
+
+### [Nadur.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexNadur.private.md) 
+
+### [Nadur.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexNadur.personal.md) 
+
+### [Nadur.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexNadur.secret.md)
 

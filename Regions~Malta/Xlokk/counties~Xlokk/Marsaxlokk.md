@@ -40,11 +40,16 @@ markerFolder: ./Marsaxlokk/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaxlokk|Marsaxlokk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaxlokk.public|Marsaxlokk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaxlokk.internal|Marsaxlokk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaxlokk.protect|Marsaxlokk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaxlokk.private|Marsaxlokk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaxlokk.personal|Marsaxlokk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaxlokk.secret|Marsaxlokk.secret]] 
+
+### [Marsaxlokk.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkMarsaxlokk.public.md) 
+
+### [Marsaxlokk.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkMarsaxlokk.internal.md) 
+
+### [Marsaxlokk.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkMarsaxlokk.protect.md) 
+
+### [Marsaxlokk.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkMarsaxlokk.private.md) 
+
+### [Marsaxlokk.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkMarsaxlokk.personal.md) 
+
+### [Marsaxlokk.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkMarsaxlokk.secret.md)
 

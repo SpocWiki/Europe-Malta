@@ -40,11 +40,16 @@ markerFolder: ./Santa_Venera/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Santa_Venera|Santa_Venera]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Santa_Venera.public|Santa_Venera.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Santa_Venera.internal|Santa_Venera.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Santa_Venera.protect|Santa_Venera.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Santa_Venera.private|Santa_Venera.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Santa_Venera.personal|Santa_Venera.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Santa_Venera.secret|Santa_Venera.secret]] 
+
+### [Santa_Venera.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSanta_Venera.public.md) 
+
+### [Santa_Venera.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSanta_Venera.internal.md) 
+
+### [Santa_Venera.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSanta_Venera.protect.md) 
+
+### [Santa_Venera.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSanta_Venera.private.md) 
+
+### [Santa_Venera.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSanta_Venera.personal.md) 
+
+### [Santa_Venera.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSanta_Venera.secret.md)
 

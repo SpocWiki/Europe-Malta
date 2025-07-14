@@ -40,11 +40,16 @@ markerFolder: ./Senglea/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Senglea|Senglea]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Senglea.public|Senglea.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Senglea.internal|Senglea.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Senglea.protect|Senglea.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Senglea.private|Senglea.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Senglea.personal|Senglea.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Senglea.secret|Senglea.secret]] 
+
+### [Senglea.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaSenglea.public.md) 
+
+### [Senglea.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaSenglea.internal.md) 
+
+### [Senglea.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaSenglea.protect.md) 
+
+### [Senglea.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaSenglea.private.md) 
+
+### [Senglea.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaSenglea.personal.md) 
+
+### [Senglea.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaSenglea.secret.md)
 

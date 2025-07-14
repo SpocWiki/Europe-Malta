@@ -40,11 +40,16 @@ markerFolder: ./St._Julian's/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/St._Julian's|St._Julian's]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/St._Julian's.public|St._Julian's.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/St._Julian's.internal|St._Julian's.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/St._Julian's.protect|St._Julian's.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/St._Julian's.private|St._Julian's.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/St._Julian's.personal|St._Julian's.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/St._Julian's.secret|St._Julian's.secret]] 
+
+### [St._Julian's.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSt._Julian's.public.md) 
+
+### [St._Julian's.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSt._Julian's.internal.md) 
+
+### [St._Julian's.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSt._Julian's.protect.md) 
+
+### [St._Julian's.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSt._Julian's.private.md) 
+
+### [St._Julian's.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSt._Julian's.personal.md) 
+
+### [St._Julian's.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSt._Julian's.secret.md)
 

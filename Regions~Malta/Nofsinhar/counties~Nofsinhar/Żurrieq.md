@@ -40,11 +40,16 @@ markerFolder: ./Żurrieq/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Żurrieq|Żurrieq]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Żurrieq.public|Żurrieq.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Żurrieq.internal|Żurrieq.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Żurrieq.protect|Żurrieq.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Żurrieq.private|Żurrieq.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Żurrieq.personal|Żurrieq.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Żurrieq.secret|Żurrieq.secret]] 
+
+### [Żurrieq.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharŻurrieq.public.md) 
+
+### [Żurrieq.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharŻurrieq.internal.md) 
+
+### [Żurrieq.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharŻurrieq.protect.md) 
+
+### [Żurrieq.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharŻurrieq.private.md) 
+
+### [Żurrieq.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharŻurrieq.personal.md) 
+
+### [Żurrieq.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharŻurrieq.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Marsaskala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaskala|Marsaskala]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaskala.public|Marsaskala.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaskala.internal|Marsaskala.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaskala.protect|Marsaskala.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaskala.private|Marsaskala.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaskala.personal|Marsaskala.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaskala.secret|Marsaskala.secret]] 
+
+### [Marsaskala.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaMarsaskala.public.md) 
+
+### [Marsaskala.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaMarsaskala.internal.md) 
+
+### [Marsaskala.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaMarsaskala.protect.md) 
+
+### [Marsaskala.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaMarsaskala.private.md) 
+
+### [Marsaskala.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaMarsaskala.personal.md) 
+
+### [Marsaskala.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaMarsaskala.secret.md)
 

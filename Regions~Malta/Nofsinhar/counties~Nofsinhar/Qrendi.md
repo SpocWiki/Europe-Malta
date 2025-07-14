@@ -40,11 +40,16 @@ markerFolder: ./Qrendi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Qrendi|Qrendi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Qrendi.public|Qrendi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Qrendi.internal|Qrendi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Qrendi.protect|Qrendi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Qrendi.private|Qrendi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Qrendi.personal|Qrendi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Qrendi.secret|Qrendi.secret]] 
+
+### [Qrendi.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharQrendi.public.md) 
+
+### [Qrendi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharQrendi.internal.md) 
+
+### [Qrendi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharQrendi.protect.md) 
+
+### [Qrendi.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharQrendi.private.md) 
+
+### [Qrendi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharQrendi.personal.md) 
+
+### [Qrendi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharQrendi.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Cospicua/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Cospicua|Cospicua]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Cospicua.public|Cospicua.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Cospicua.internal|Cospicua.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Cospicua.protect|Cospicua.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Cospicua.private|Cospicua.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Cospicua.personal|Cospicua.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Cospicua.secret|Cospicua.secret]] 
+
+### [Cospicua.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaCospicua.public.md) 
+
+### [Cospicua.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaCospicua.internal.md) 
+
+### [Cospicua.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaCospicua.protect.md) 
+
+### [Cospicua.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaCospicua.private.md) 
+
+### [Cospicua.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaCospicua.personal.md) 
+
+### [Cospicua.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaCospicua.secret.md)
 

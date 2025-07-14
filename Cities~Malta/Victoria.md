@@ -40,11 +40,16 @@ markerFolder: ./Victoria/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Victoria|Victoria]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Victoria.public|Victoria.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Victoria.internal|Victoria.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Victoria.protect|Victoria.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Victoria.private|Victoria.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Victoria.personal|Victoria.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Victoria.secret|Victoria.secret]] 
+
+### [Victoria.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaVictoria.public.md) 
+
+### [Victoria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaVictoria.internal.md) 
+
+### [Victoria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaVictoria.protect.md) 
+
+### [Victoria.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaVictoria.private.md) 
+
+### [Victoria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaVictoria.personal.md) 
+
+### [Victoria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaVictoria.secret.md)
 

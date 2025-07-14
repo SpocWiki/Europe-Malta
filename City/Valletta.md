@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/City/Valletta|Valletta]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/City/Valletta.public|Valletta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/City/Valletta.internal|Valletta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/City/Valletta.protect|Valletta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/City/Valletta.private|Valletta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/City/Valletta.personal|Valletta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/City/Valletta.secret|Valletta.secret]] 
+
+### [Valletta.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\CityValletta.public.md) 
+
+### [Valletta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\CityValletta.internal.md) 
+
+### [Valletta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\CityValletta.protect.md) 
+
+### [Valletta.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\CityValletta.private.md) 
+
+### [Valletta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\CityValletta.personal.md) 
+
+### [Valletta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\CityValletta.secret.md)
+

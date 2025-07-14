@@ -40,11 +40,16 @@ markerFolder: ./Kirkop/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Kirkop|Kirkop]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Kirkop.public|Kirkop.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Kirkop.internal|Kirkop.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Kirkop.protect|Kirkop.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Kirkop.private|Kirkop.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Kirkop.personal|Kirkop.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Kirkop.secret|Kirkop.secret]] 
+
+### [Kirkop.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharKirkop.public.md) 
+
+### [Kirkop.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharKirkop.internal.md) 
+
+### [Kirkop.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharKirkop.protect.md) 
+
+### [Kirkop.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharKirkop.private.md) 
+
+### [Kirkop.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharKirkop.personal.md) 
+
+### [Kirkop.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharKirkop.secret.md)
 

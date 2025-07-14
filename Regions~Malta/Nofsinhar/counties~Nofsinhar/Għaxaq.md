@@ -40,11 +40,16 @@ markerFolder: ./Għaxaq/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Għaxaq|Għaxaq]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Għaxaq.public|Għaxaq.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Għaxaq.internal|Għaxaq.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Għaxaq.protect|Għaxaq.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Għaxaq.private|Għaxaq.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Għaxaq.personal|Għaxaq.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Għaxaq.secret|Għaxaq.secret]] 
+
+### [Għaxaq.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharGħaxaq.public.md) 
+
+### [Għaxaq.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharGħaxaq.internal.md) 
+
+### [Għaxaq.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharGħaxaq.protect.md) 
+
+### [Għaxaq.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharGħaxaq.private.md) 
+
+### [Għaxaq.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharGħaxaq.personal.md) 
+
+### [Għaxaq.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharGħaxaq.secret.md)
 

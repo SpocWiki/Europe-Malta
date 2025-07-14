@@ -40,11 +40,16 @@ markerFolder: ./Valletta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Valletta|Valletta]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Valletta.public|Valletta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Valletta.internal|Valletta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Valletta.protect|Valletta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Valletta.private|Valletta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Valletta.personal|Valletta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Valletta.secret|Valletta.secret]] 
+
+### [Valletta.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkValletta.public.md) 
+
+### [Valletta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkValletta.internal.md) 
+
+### [Valletta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkValletta.protect.md) 
+
+### [Valletta.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkValletta.private.md) 
+
+### [Valletta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkValletta.personal.md) 
+
+### [Valletta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkValletta.secret.md)
 

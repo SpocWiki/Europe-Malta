@@ -40,11 +40,16 @@ markerFolder: ./Balzan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Balzan|Balzan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Balzan.public|Balzan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Balzan.internal|Balzan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Balzan.protect|Balzan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Balzan.private|Balzan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Balzan.personal|Balzan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Balzan.secret|Balzan.secret]] 
+
+### [Balzan.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliBalzan.public.md) 
+
+### [Balzan.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliBalzan.internal.md) 
+
+### [Balzan.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliBalzan.protect.md) 
+
+### [Balzan.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliBalzan.private.md) 
+
+### [Balzan.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliBalzan.personal.md) 
+
+### [Balzan.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliBalzan.secret.md)
 

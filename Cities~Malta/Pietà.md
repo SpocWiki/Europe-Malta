@@ -40,11 +40,16 @@ markerFolder: ./Pietà/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Pietà|Pietà]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Pietà.public|Pietà.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Pietà.internal|Pietà.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Pietà.protect|Pietà.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Pietà.private|Pietà.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Pietà.personal|Pietà.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Pietà.secret|Pietà.secret]] 
+
+### [Pietà.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaPietà.public.md) 
+
+### [Pietà.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaPietà.internal.md) 
+
+### [Pietà.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaPietà.protect.md) 
+
+### [Pietà.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaPietà.private.md) 
+
+### [Pietà.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaPietà.personal.md) 
+
+### [Pietà.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaPietà.secret.md)
 

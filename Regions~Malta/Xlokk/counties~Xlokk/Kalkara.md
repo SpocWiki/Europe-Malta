@@ -40,11 +40,16 @@ markerFolder: ./Kalkara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Kalkara|Kalkara]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Kalkara.public|Kalkara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Kalkara.internal|Kalkara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Kalkara.protect|Kalkara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Kalkara.private|Kalkara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Kalkara.personal|Kalkara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Kalkara.secret|Kalkara.secret]] 
+
+### [Kalkara.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkKalkara.public.md) 
+
+### [Kalkara.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkKalkara.internal.md) 
+
+### [Kalkara.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkKalkara.protect.md) 
+
+### [Kalkara.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkKalkara.private.md) 
+
+### [Kalkara.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkKalkara.personal.md) 
+
+### [Kalkara.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkKalkara.secret.md)
 

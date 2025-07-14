@@ -40,11 +40,16 @@ markerFolder: ./Sannat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Sannat|Sannat]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Sannat.public|Sannat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Sannat.internal|Sannat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Sannat.protect|Sannat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Sannat.private|Sannat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Sannat.personal|Sannat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Sannat.secret|Sannat.secret]] 
+
+### [Sannat.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexSannat.public.md) 
+
+### [Sannat.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexSannat.internal.md) 
+
+### [Sannat.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexSannat.protect.md) 
+
+### [Sannat.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexSannat.private.md) 
+
+### [Sannat.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexSannat.personal.md) 
+
+### [Sannat.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexSannat.secret.md)
 

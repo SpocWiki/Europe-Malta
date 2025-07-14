@@ -40,11 +40,16 @@ markerFolder: ./Munxar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Munxar|Munxar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Munxar.public|Munxar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Munxar.internal|Munxar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Munxar.protect|Munxar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Munxar.private|Munxar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Munxar.personal|Munxar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Munxar.secret|Munxar.secret]] 
+
+### [Munxar.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexMunxar.public.md) 
+
+### [Munxar.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexMunxar.internal.md) 
+
+### [Munxar.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexMunxar.protect.md) 
+
+### [Munxar.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexMunxar.private.md) 
+
+### [Munxar.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexMunxar.personal.md) 
+
+### [Munxar.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexMunxar.secret.md)
 

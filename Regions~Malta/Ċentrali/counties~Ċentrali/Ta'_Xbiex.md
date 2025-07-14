@@ -40,11 +40,16 @@ markerFolder: ./Ta'_Xbiex/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Ta'_Xbiex|Ta'_Xbiex]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Ta'_Xbiex.public|Ta'_Xbiex.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Ta'_Xbiex.internal|Ta'_Xbiex.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Ta'_Xbiex.protect|Ta'_Xbiex.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Ta'_Xbiex.private|Ta'_Xbiex.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Ta'_Xbiex.personal|Ta'_Xbiex.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Ta'_Xbiex.secret|Ta'_Xbiex.secret]] 
+
+### [Ta'_Xbiex.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliTa'_Xbiex.public.md) 
+
+### [Ta'_Xbiex.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliTa'_Xbiex.internal.md) 
+
+### [Ta'_Xbiex.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliTa'_Xbiex.protect.md) 
+
+### [Ta'_Xbiex.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliTa'_Xbiex.private.md) 
+
+### [Ta'_Xbiex.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliTa'_Xbiex.personal.md) 
+
+### [Ta'_Xbiex.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliTa'_Xbiex.secret.md)
 

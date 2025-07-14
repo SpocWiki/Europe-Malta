@@ -40,11 +40,16 @@ markerFolder: ./Mellieħa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Mellieħa|Mellieħa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Mellieħa.public|Mellieħa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Mellieħa.internal|Mellieħa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Mellieħa.protect|Mellieħa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Mellieħa.private|Mellieħa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Mellieħa.personal|Mellieħa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Mellieħa.secret|Mellieħa.secret]] 
+
+### [Mellieħa.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaMellieħa.public.md) 
+
+### [Mellieħa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaMellieħa.internal.md) 
+
+### [Mellieħa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaMellieħa.protect.md) 
+
+### [Mellieħa.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaMellieħa.private.md) 
+
+### [Mellieħa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaMellieħa.personal.md) 
+
+### [Mellieħa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaMellieħa.secret.md)
 

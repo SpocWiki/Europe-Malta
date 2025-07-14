@@ -40,11 +40,16 @@ markerFolder: ./St._Paul's_Bay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/St._Paul's_Bay|St._Paul's_Bay]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/St._Paul's_Bay.public|St._Paul's_Bay.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/St._Paul's_Bay.internal|St._Paul's_Bay.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/St._Paul's_Bay.protect|St._Paul's_Bay.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/St._Paul's_Bay.private|St._Paul's_Bay.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/St._Paul's_Bay.personal|St._Paul's_Bay.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/St._Paul's_Bay.secret|St._Paul's_Bay.secret]] 
+
+### [St._Paul's_Bay.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSt._Paul's_Bay.public.md) 
+
+### [St._Paul's_Bay.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSt._Paul's_Bay.internal.md) 
+
+### [St._Paul's_Bay.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSt._Paul's_Bay.protect.md) 
+
+### [St._Paul's_Bay.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSt._Paul's_Bay.private.md) 
+
+### [St._Paul's_Bay.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSt._Paul's_Bay.personal.md) 
+
+### [St._Paul's_Bay.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSt._Paul's_Bay.secret.md)
 

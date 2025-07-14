@@ -40,11 +40,16 @@ markerFolder: ./Msida/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Msida|Msida]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Msida.public|Msida.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Msida.internal|Msida.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Msida.protect|Msida.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Msida.private|Msida.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Msida.personal|Msida.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Msida.secret|Msida.secret]] 
+
+### [Msida.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaMsida.public.md) 
+
+### [Msida.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaMsida.internal.md) 
+
+### [Msida.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaMsida.protect.md) 
+
+### [Msida.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaMsida.private.md) 
+
+### [Msida.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaMsida.personal.md) 
+
+### [Msida.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaMsida.secret.md)
 

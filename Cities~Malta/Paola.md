@@ -40,11 +40,16 @@ markerFolder: ./Paola/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Paola|Paola]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Paola.public|Paola.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Paola.internal|Paola.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Paola.protect|Paola.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Paola.private|Paola.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Paola.personal|Paola.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Paola.secret|Paola.secret]] 
+
+### [Paola.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaPaola.public.md) 
+
+### [Paola.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaPaola.internal.md) 
+
+### [Paola.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaPaola.protect.md) 
+
+### [Paola.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaPaola.private.md) 
+
+### [Paola.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaPaola.personal.md) 
+
+### [Paola.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaPaola.secret.md)
 

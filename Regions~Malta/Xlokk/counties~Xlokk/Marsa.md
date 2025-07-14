@@ -40,11 +40,16 @@ markerFolder: ./Marsa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Marsa|Marsa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Marsa.public|Marsa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Marsa.internal|Marsa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Marsa.protect|Marsa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Marsa.private|Marsa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Marsa.personal|Marsa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Marsa.secret|Marsa.secret]] 
+
+### [Marsa.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkMarsa.public.md) 
+
+### [Marsa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkMarsa.internal.md) 
+
+### [Marsa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkMarsa.protect.md) 
+
+### [Marsa.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkMarsa.private.md) 
+
+### [Marsa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkMarsa.personal.md) 
+
+### [Marsa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkMarsa.secret.md)
 

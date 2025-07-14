@@ -40,11 +40,16 @@ markerFolder: ./Mqabba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Mqabba|Mqabba]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Mqabba.public|Mqabba.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Mqabba.internal|Mqabba.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Mqabba.protect|Mqabba.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Mqabba.private|Mqabba.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Mqabba.personal|Mqabba.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Mqabba.secret|Mqabba.secret]] 
+
+### [Mqabba.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharMqabba.public.md) 
+
+### [Mqabba.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharMqabba.internal.md) 
+
+### [Mqabba.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharMqabba.protect.md) 
+
+### [Mqabba.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharMqabba.private.md) 
+
+### [Mqabba.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharMqabba.personal.md) 
+
+### [Mqabba.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharMqabba.secret.md)
 
