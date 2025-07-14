@@ -41,15 +41,17 @@ markerFolder: ./San_Ġwann/
 
 ## Confidential Links & Embeds: 
 
-### [San_Ġwann.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSan_Ġwann.public.md) 
+### [San_Ġwann](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/San_Ġwann.md) 
 
-### [San_Ġwann.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSan_Ġwann.internal.md) 
+### [San_Ġwann.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/San_Ġwann.public.md) 
 
-### [San_Ġwann.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSan_Ġwann.protect.md) 
+### [San_Ġwann.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/San_Ġwann.internal.md) 
 
-### [San_Ġwann.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSan_Ġwann.private.md) 
+### [San_Ġwann.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/San_Ġwann.protect.md) 
 
-### [San_Ġwann.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSan_Ġwann.personal.md) 
+### [San_Ġwann.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/San_Ġwann.private.md) 
 
-### [San_Ġwann.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliSan_Ġwann.secret.md)
+### [San_Ġwann.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/San_Ġwann.personal.md) 
+
+### [San_Ġwann.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/San_Ġwann.secret.md)
 

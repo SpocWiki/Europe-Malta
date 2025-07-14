@@ -41,15 +41,17 @@ markerFolder: ./Imtarfa/
 
 ## Confidential Links & Embeds: 
 
-### [Imtarfa.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaImtarfa.public.md) 
+### [Imtarfa](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Imtarfa.md) 
 
-### [Imtarfa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaImtarfa.internal.md) 
+### [Imtarfa.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Imtarfa.public.md) 
 
-### [Imtarfa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaImtarfa.protect.md) 
+### [Imtarfa.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Imtarfa.internal.md) 
 
-### [Imtarfa.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaImtarfa.private.md) 
+### [Imtarfa.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Imtarfa.protect.md) 
 
-### [Imtarfa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaImtarfa.personal.md) 
+### [Imtarfa.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Imtarfa.private.md) 
 
-### [Imtarfa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaImtarfa.secret.md)
+### [Imtarfa.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Imtarfa.personal.md) 
+
+### [Imtarfa.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Imtarfa.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Birżebbuġa/
 
 ## Confidential Links & Embeds: 
 
-### [Birżebbuġa.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharBirżebbuġa.public.md) 
+### [Birżebbuġa](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Birżebbuġa.md) 
 
-### [Birżebbuġa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharBirżebbuġa.internal.md) 
+### [Birżebbuġa.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Birżebbuġa.public.md) 
 
-### [Birżebbuġa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharBirżebbuġa.protect.md) 
+### [Birżebbuġa.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Birżebbuġa.internal.md) 
 
-### [Birżebbuġa.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharBirżebbuġa.private.md) 
+### [Birżebbuġa.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Birżebbuġa.protect.md) 
 
-### [Birżebbuġa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharBirżebbuġa.personal.md) 
+### [Birżebbuġa.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Birżebbuġa.private.md) 
 
-### [Birżebbuġa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharBirżebbuġa.secret.md)
+### [Birżebbuġa.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Birżebbuġa.personal.md) 
+
+### [Birżebbuġa.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Birżebbuġa.secret.md)
 

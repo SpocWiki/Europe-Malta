@@ -41,15 +41,17 @@ markerFolder: ./Gżira/
 
 ## Confidential Links & Embeds: 
 
-### [Gżira.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliGżira.public.md) 
+### [Gżira](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Gżira.md) 
 
-### [Gżira.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliGżira.internal.md) 
+### [Gżira.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Gżira.public.md) 
 
-### [Gżira.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliGżira.protect.md) 
+### [Gżira.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Gżira.internal.md) 
 
-### [Gżira.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliGżira.private.md) 
+### [Gżira.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Gżira.protect.md) 
 
-### [Gżira.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliGżira.personal.md) 
+### [Gżira.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Gżira.private.md) 
 
-### [Gżira.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliGżira.secret.md)
+### [Gżira.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Gżira.personal.md) 
+
+### [Gżira.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Gżira.secret.md)
 

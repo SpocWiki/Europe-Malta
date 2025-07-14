@@ -41,15 +41,17 @@ markerFolder: ./Birkirkara/
 
 ## Confidential Links & Embeds: 
 
-### [Birkirkara.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliBirkirkara.public.md) 
+### [Birkirkara](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Birkirkara.md) 
 
-### [Birkirkara.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliBirkirkara.internal.md) 
+### [Birkirkara.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Birkirkara.public.md) 
 
-### [Birkirkara.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliBirkirkara.protect.md) 
+### [Birkirkara.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Birkirkara.internal.md) 
 
-### [Birkirkara.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliBirkirkara.private.md) 
+### [Birkirkara.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Birkirkara.protect.md) 
 
-### [Birkirkara.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliBirkirkara.personal.md) 
+### [Birkirkara.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Birkirkara.private.md) 
 
-### [Birkirkara.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Ċentrali\counties~ĊentraliBirkirkara.secret.md)
+### [Birkirkara.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Birkirkara.personal.md) 
+
+### [Birkirkara.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Birkirkara.secret.md)
 

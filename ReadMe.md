@@ -130,15 +130,17 @@ Capital :: [[geo/Continent/Europe/Europe~South/Malta/City/Valletta]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\MaltaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~South/Malta/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\MaltaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~South/Malta/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\MaltaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\MaltaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\MaltaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~South/Malta/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\MaltaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/ReadMe.secret.md)
 

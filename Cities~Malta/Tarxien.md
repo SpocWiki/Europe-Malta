@@ -41,15 +41,17 @@ markerFolder: ./Tarxien/
 
 ## Confidential Links & Embeds: 
 
-### [Tarxien.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaTarxien.public.md) 
+### [Tarxien](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.md) 
 
-### [Tarxien.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaTarxien.internal.md) 
+### [Tarxien.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.public.md) 
 
-### [Tarxien.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaTarxien.protect.md) 
+### [Tarxien.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.internal.md) 
 
-### [Tarxien.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaTarxien.private.md) 
+### [Tarxien.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.protect.md) 
 
-### [Tarxien.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaTarxien.personal.md) 
+### [Tarxien.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.private.md) 
 
-### [Tarxien.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaTarxien.secret.md)
+### [Tarxien.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.personal.md) 
+
+### [Tarxien.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.secret.md)
 

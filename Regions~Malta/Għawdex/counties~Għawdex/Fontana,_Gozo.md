@@ -41,15 +41,17 @@ markerFolder: ./Fontana,_Gozo/
 
 ## Confidential Links & Embeds: 
 
-### [Fontana,_Gozo.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexFontana,_Gozo.public.md) 
+### [Fontana,_Gozo](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.md) 
 
-### [Fontana,_Gozo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexFontana,_Gozo.internal.md) 
+### [Fontana,_Gozo.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.public.md) 
 
-### [Fontana,_Gozo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexFontana,_Gozo.protect.md) 
+### [Fontana,_Gozo.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.internal.md) 
 
-### [Fontana,_Gozo.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexFontana,_Gozo.private.md) 
+### [Fontana,_Gozo.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.protect.md) 
 
-### [Fontana,_Gozo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexFontana,_Gozo.personal.md) 
+### [Fontana,_Gozo.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.private.md) 
 
-### [Fontana,_Gozo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexFontana,_Gozo.secret.md)
+### [Fontana,_Gozo.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.personal.md) 
+
+### [Fontana,_Gozo.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.secret.md)
 

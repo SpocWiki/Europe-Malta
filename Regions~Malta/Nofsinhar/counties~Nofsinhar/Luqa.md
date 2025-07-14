@@ -41,15 +41,17 @@ markerFolder: ./Luqa/
 
 ## Confidential Links & Embeds: 
 
-### [Luqa.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharLuqa.public.md) 
+### [Luqa](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Luqa.md) 
 
-### [Luqa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharLuqa.internal.md) 
+### [Luqa.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Luqa.public.md) 
 
-### [Luqa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharLuqa.protect.md) 
+### [Luqa.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Luqa.internal.md) 
 
-### [Luqa.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharLuqa.private.md) 
+### [Luqa.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Luqa.protect.md) 
 
-### [Luqa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharLuqa.personal.md) 
+### [Luqa.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Luqa.private.md) 
 
-### [Luqa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharLuqa.secret.md)
+### [Luqa.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Luqa.personal.md) 
+
+### [Luqa.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Luqa.secret.md)
 

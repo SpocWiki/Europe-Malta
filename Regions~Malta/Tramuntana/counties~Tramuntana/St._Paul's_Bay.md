@@ -41,15 +41,17 @@ markerFolder: ./St._Paul's_Bay/
 
 ## Confidential Links & Embeds: 
 
-### [St._Paul's_Bay.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSt._Paul's_Bay.public.md) 
+### [St._Paul's_Bay](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.md) 
 
-### [St._Paul's_Bay.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSt._Paul's_Bay.internal.md) 
+### [St._Paul's_Bay.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.public.md) 
 
-### [St._Paul's_Bay.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSt._Paul's_Bay.protect.md) 
+### [St._Paul's_Bay.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.internal.md) 
 
-### [St._Paul's_Bay.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSt._Paul's_Bay.private.md) 
+### [St._Paul's_Bay.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.protect.md) 
 
-### [St._Paul's_Bay.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSt._Paul's_Bay.personal.md) 
+### [St._Paul's_Bay.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.private.md) 
 
-### [St._Paul's_Bay.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaSt._Paul's_Bay.secret.md)
+### [St._Paul's_Bay.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.personal.md) 
+
+### [St._Paul's_Bay.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Siġġiewi/
 
 ## Confidential Links & Embeds: 
 
-### [Siġġiewi.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharSiġġiewi.public.md) 
+### [Siġġiewi](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Siġġiewi.md) 
 
-### [Siġġiewi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharSiġġiewi.internal.md) 
+### [Siġġiewi.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Siġġiewi.public.md) 
 
-### [Siġġiewi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharSiġġiewi.protect.md) 
+### [Siġġiewi.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Siġġiewi.internal.md) 
 
-### [Siġġiewi.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharSiġġiewi.private.md) 
+### [Siġġiewi.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Siġġiewi.protect.md) 
 
-### [Siġġiewi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharSiġġiewi.personal.md) 
+### [Siġġiewi.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Siġġiewi.private.md) 
 
-### [Siġġiewi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharSiġġiewi.secret.md)
+### [Siġġiewi.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Siġġiewi.personal.md) 
+
+### [Siġġiewi.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Siġġiewi.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Saint_Lawrence/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Lawrence.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexSaint_Lawrence.public.md) 
+### [Saint_Lawrence](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.md) 
 
-### [Saint_Lawrence.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexSaint_Lawrence.internal.md) 
+### [Saint_Lawrence.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.public.md) 
 
-### [Saint_Lawrence.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexSaint_Lawrence.protect.md) 
+### [Saint_Lawrence.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.internal.md) 
 
-### [Saint_Lawrence.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexSaint_Lawrence.private.md) 
+### [Saint_Lawrence.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.protect.md) 
 
-### [Saint_Lawrence.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexSaint_Lawrence.personal.md) 
+### [Saint_Lawrence.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.private.md) 
 
-### [Saint_Lawrence.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexSaint_Lawrence.secret.md)
+### [Saint_Lawrence.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.personal.md) 
+
+### [Saint_Lawrence.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.secret.md)
 

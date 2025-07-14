@@ -41,15 +41,17 @@ markerFolder: ./Santa_Luċija/
 
 ## Confidential Links & Embeds: 
 
-### [Santa_Luċija.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharSanta_Luċija.public.md) 
+### [Santa_Luċija](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Santa_Luċija.md) 
 
-### [Santa_Luċija.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharSanta_Luċija.internal.md) 
+### [Santa_Luċija.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Santa_Luċija.public.md) 
 
-### [Santa_Luċija.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharSanta_Luċija.protect.md) 
+### [Santa_Luċija.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Santa_Luċija.internal.md) 
 
-### [Santa_Luċija.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharSanta_Luċija.private.md) 
+### [Santa_Luċija.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Santa_Luċija.protect.md) 
 
-### [Santa_Luċija.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharSanta_Luċija.personal.md) 
+### [Santa_Luċija.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Santa_Luċija.private.md) 
 
-### [Santa_Luċija.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharSanta_Luċija.secret.md)
+### [Santa_Luċija.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Santa_Luċija.personal.md) 
+
+### [Santa_Luċija.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Santa_Luċija.secret.md)
 

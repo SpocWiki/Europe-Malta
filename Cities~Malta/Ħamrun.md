@@ -41,15 +41,17 @@ markerFolder: ./Ħamrun/
 
 ## Confidential Links & Embeds: 
 
-### [Ħamrun.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaĦamrun.public.md) 
+### [Ħamrun](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.md) 
 
-### [Ħamrun.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaĦamrun.internal.md) 
+### [Ħamrun.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.public.md) 
 
-### [Ħamrun.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaĦamrun.protect.md) 
+### [Ħamrun.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.internal.md) 
 
-### [Ħamrun.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaĦamrun.private.md) 
+### [Ħamrun.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.protect.md) 
 
-### [Ħamrun.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaĦamrun.personal.md) 
+### [Ħamrun.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.private.md) 
 
-### [Ħamrun.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Cities~MaltaĦamrun.secret.md)
+### [Ħamrun.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.personal.md) 
+
+### [Ħamrun.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.secret.md)
 

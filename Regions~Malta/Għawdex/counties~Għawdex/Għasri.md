@@ -41,15 +41,17 @@ markerFolder: ./Għasri/
 
 ## Confidential Links & Embeds: 
 
-### [Għasri.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexGħasri.public.md) 
+### [Għasri](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Għasri.md) 
 
-### [Għasri.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexGħasri.internal.md) 
+### [Għasri.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Għasri.public.md) 
 
-### [Għasri.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexGħasri.protect.md) 
+### [Għasri.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Għasri.internal.md) 
 
-### [Għasri.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexGħasri.private.md) 
+### [Għasri.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Għasri.protect.md) 
 
-### [Għasri.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexGħasri.personal.md) 
+### [Għasri.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Għasri.private.md) 
 
-### [Għasri.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexGħasri.secret.md)
+### [Għasri.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Għasri.personal.md) 
+
+### [Għasri.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Għasri.secret.md)
 

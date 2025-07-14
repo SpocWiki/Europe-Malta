@@ -41,15 +41,17 @@ markerFolder: ./Mosta/
 
 ## Confidential Links & Embeds: 
 
-### [Mosta.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaMosta.public.md) 
+### [Mosta](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Mosta.md) 
 
-### [Mosta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaMosta.internal.md) 
+### [Mosta.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Mosta.public.md) 
 
-### [Mosta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaMosta.protect.md) 
+### [Mosta.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Mosta.internal.md) 
 
-### [Mosta.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaMosta.private.md) 
+### [Mosta.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Mosta.protect.md) 
 
-### [Mosta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaMosta.personal.md) 
+### [Mosta.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Mosta.private.md) 
 
-### [Mosta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaMosta.secret.md)
+### [Mosta.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Mosta.personal.md) 
+
+### [Mosta.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Mosta.secret.md)
 

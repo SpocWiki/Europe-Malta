@@ -41,15 +41,17 @@ markerFolder: ./Żebbuġ/
 
 ## Confidential Links & Embeds: 
 
-### [Żebbuġ.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexŻebbuġ.public.md) 
+### [Żebbuġ](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Żebbuġ.md) 
 
-### [Żebbuġ.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexŻebbuġ.internal.md) 
+### [Żebbuġ.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Żebbuġ.public.md) 
 
-### [Żebbuġ.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexŻebbuġ.protect.md) 
+### [Żebbuġ.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Żebbuġ.internal.md) 
 
-### [Żebbuġ.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexŻebbuġ.private.md) 
+### [Żebbuġ.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Żebbuġ.protect.md) 
 
-### [Żebbuġ.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexŻebbuġ.personal.md) 
+### [Żebbuġ.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Żebbuġ.private.md) 
 
-### [Żebbuġ.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexŻebbuġ.secret.md)
+### [Żebbuġ.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Żebbuġ.personal.md) 
+
+### [Żebbuġ.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Żebbuġ.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Mqabba/
 
 ## Confidential Links & Embeds: 
 
-### [Mqabba.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharMqabba.public.md) 
+### [Mqabba](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Mqabba.md) 
 
-### [Mqabba.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharMqabba.internal.md) 
+### [Mqabba.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Mqabba.public.md) 
 
-### [Mqabba.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharMqabba.protect.md) 
+### [Mqabba.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Mqabba.internal.md) 
 
-### [Mqabba.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharMqabba.private.md) 
+### [Mqabba.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Mqabba.protect.md) 
 
-### [Mqabba.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharMqabba.personal.md) 
+### [Mqabba.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Mqabba.private.md) 
 
-### [Mqabba.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Nofsinhar\counties~NofsinharMqabba.secret.md)
+### [Mqabba.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Mqabba.personal.md) 
+
+### [Mqabba.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Nofsinhar/counties~Nofsinhar/Mqabba.secret.md)
 

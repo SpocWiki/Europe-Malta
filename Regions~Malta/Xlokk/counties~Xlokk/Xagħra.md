@@ -41,15 +41,17 @@ markerFolder: ./Xagħra/
 
 ## Confidential Links & Embeds: 
 
-### [Xagħra.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkXagħra.public.md) 
+### [Xagħra](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Xagħra.md) 
 
-### [Xagħra.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkXagħra.internal.md) 
+### [Xagħra.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Xagħra.public.md) 
 
-### [Xagħra.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkXagħra.protect.md) 
+### [Xagħra.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Xagħra.internal.md) 
 
-### [Xagħra.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkXagħra.private.md) 
+### [Xagħra.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Xagħra.protect.md) 
 
-### [Xagħra.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkXagħra.personal.md) 
+### [Xagħra.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Xagħra.private.md) 
 
-### [Xagħra.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Xlokk\counties~XlokkXagħra.secret.md)
+### [Xagħra.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Xagħra.personal.md) 
+
+### [Xagħra.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Xagħra.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Pembroke/
 
 ## Confidential Links & Embeds: 
 
-### [Pembroke.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaPembroke.public.md) 
+### [Pembroke](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Pembroke.md) 
 
-### [Pembroke.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaPembroke.internal.md) 
+### [Pembroke.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Pembroke.public.md) 
 
-### [Pembroke.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaPembroke.protect.md) 
+### [Pembroke.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Pembroke.internal.md) 
 
-### [Pembroke.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaPembroke.private.md) 
+### [Pembroke.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Pembroke.protect.md) 
 
-### [Pembroke.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaPembroke.personal.md) 
+### [Pembroke.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Pembroke.private.md) 
 
-### [Pembroke.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaPembroke.secret.md)
+### [Pembroke.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Pembroke.personal.md) 
+
+### [Pembroke.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Pembroke.secret.md)
 

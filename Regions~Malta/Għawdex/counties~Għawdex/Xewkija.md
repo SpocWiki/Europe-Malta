@@ -41,15 +41,17 @@ markerFolder: ./Xewkija/
 
 ## Confidential Links & Embeds: 
 
-### [Xewkija.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexXewkija.public.md) 
+### [Xewkija](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Xewkija.md) 
 
-### [Xewkija.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexXewkija.internal.md) 
+### [Xewkija.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Xewkija.public.md) 
 
-### [Xewkija.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexXewkija.protect.md) 
+### [Xewkija.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Xewkija.internal.md) 
 
-### [Xewkija.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexXewkija.private.md) 
+### [Xewkija.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Xewkija.protect.md) 
 
-### [Xewkija.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexXewkija.personal.md) 
+### [Xewkija.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Xewkija.private.md) 
 
-### [Xewkija.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexXewkija.secret.md)
+### [Xewkija.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Xewkija.personal.md) 
+
+### [Xewkija.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Xewkija.secret.md)
 

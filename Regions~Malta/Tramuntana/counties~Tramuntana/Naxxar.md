@@ -41,15 +41,17 @@ markerFolder: ./Naxxar/
 
 ## Confidential Links & Embeds: 
 
-### [Naxxar.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaNaxxar.public.md) 
+### [Naxxar](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Naxxar.md) 
 
-### [Naxxar.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaNaxxar.internal.md) 
+### [Naxxar.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Naxxar.public.md) 
 
-### [Naxxar.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaNaxxar.protect.md) 
+### [Naxxar.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Naxxar.internal.md) 
 
-### [Naxxar.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaNaxxar.private.md) 
+### [Naxxar.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Naxxar.protect.md) 
 
-### [Naxxar.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaNaxxar.personal.md) 
+### [Naxxar.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Naxxar.private.md) 
 
-### [Naxxar.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaNaxxar.secret.md)
+### [Naxxar.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Naxxar.personal.md) 
+
+### [Naxxar.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Naxxar.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Kerċem/
 
 ## Confidential Links & Embeds: 
 
-### [Kerċem.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexKerċem.public.md) 
+### [Kerċem](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Kerċem.md) 
 
-### [Kerċem.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexKerċem.internal.md) 
+### [Kerċem.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Kerċem.public.md) 
 
-### [Kerċem.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexKerċem.protect.md) 
+### [Kerċem.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Kerċem.internal.md) 
 
-### [Kerċem.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexKerċem.private.md) 
+### [Kerċem.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Kerċem.protect.md) 
 
-### [Kerċem.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexKerċem.personal.md) 
+### [Kerċem.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Kerċem.private.md) 
 
-### [Kerċem.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Għawdex\counties~GħawdexKerċem.secret.md)
+### [Kerċem.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Kerċem.personal.md) 
+
+### [Kerċem.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Kerċem.secret.md)
 

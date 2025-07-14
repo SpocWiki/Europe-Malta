@@ -41,15 +41,17 @@ markerFolder: ./Għargħur/
 
 ## Confidential Links & Embeds: 
 
-### [Għargħur.public](/_public/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaGħargħur.public.md) 
+### [Għargħur](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Għargħur.md) 
 
-### [Għargħur.internal](/_internal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaGħargħur.internal.md) 
+### [Għargħur.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Għargħur.public.md) 
 
-### [Għargħur.protect](/_protect/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaGħargħur.protect.md) 
+### [Għargħur.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Għargħur.internal.md) 
 
-### [Għargħur.private](/_private/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaGħargħur.private.md) 
+### [Għargħur.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Għargħur.protect.md) 
 
-### [Għargħur.personal](/_personal/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaGħargħur.personal.md) 
+### [Għargħur.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Għargħur.private.md) 
 
-### [Għargħur.secret](/_secret/\Earth\Continent\Europe\Europe~South\Malta\Regions~Malta\Tramuntana\counties~TramuntanaGħargħur.secret.md)
+### [Għargħur.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Għargħur.personal.md) 
+
+### [Għargħur.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/Għargħur.secret.md)
 
