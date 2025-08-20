@@ -1,30 +1,29 @@
 ---
-location: [ 35.92 , 14.49 ] 
+location:
+  - 35.92
+  - 14.49
 type: geo-Region
 title: St._Julian's
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- St._Julian's
-
+  - St._Julian's
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # St._Julian's

@@ -1,36 +1,37 @@
 ---
 location:
-- 35.9
-- 14.52
+  - 35.9
+  - 14.52
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26970
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Malta
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Malta
-- Malte
-- مالطة
-- 马耳他
-- Мальта
-- the Republic of Malta
-- la República de Malta
+  - Malta
+  - Malte
+  - مالطة
+  - 马耳他
+  - Мальта
+  - the Republic of Malta
+  - la República de Malta
 Languages:
-- mt
-- en-MT
+  - mt
+  - en-MT
 ---
 
 
