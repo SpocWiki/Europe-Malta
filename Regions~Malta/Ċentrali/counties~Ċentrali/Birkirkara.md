@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Birkirkara
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Birkirkara/
 markerFolder: ./Birkirkara/

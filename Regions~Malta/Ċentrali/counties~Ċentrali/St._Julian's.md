@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: St._Julian's
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./St._Julian's/
 markerFolder: ./St._Julian's/

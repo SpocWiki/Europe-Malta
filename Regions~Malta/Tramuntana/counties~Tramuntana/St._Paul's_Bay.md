@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: St._Paul's_Bay
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./St._Paul's_Bay/
 markerFolder: ./St._Paul's_Bay/

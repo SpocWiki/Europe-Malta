@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Saint_Lawrence
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_Lawrence/
 markerFolder: ./Saint_Lawrence/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Msida
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Msida/
 markerFolder: ./Msida/

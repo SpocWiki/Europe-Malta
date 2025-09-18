@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Għasri
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Għasri/
 markerFolder: ./Għasri/

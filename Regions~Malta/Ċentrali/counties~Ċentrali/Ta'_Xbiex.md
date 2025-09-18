@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ta'_Xbiex
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ta'_Xbiex/
 markerFolder: ./Ta'_Xbiex/
