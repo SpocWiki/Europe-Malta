@@ -21,7 +21,7 @@ State ::
 Country :: [[../../Malta]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
