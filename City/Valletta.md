@@ -1,6 +1,12 @@
 ---
-location: [35.9,14.52] 
+location:
+  - 35.89
+  - 14.51
 mapzoom: [7,12] 
+type: geo-Region
+title: Valletta
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
 mapmarker: city 
 type: City
 tags:
@@ -9,6 +15,8 @@ tags:
 
 SpocWebEntityId: 35187
 isDeleted: false
+isReadOnly: false
+draft: false
 confidential: public
 
 ---
@@ -22,14 +30,20 @@ Country :: [[../../Malta]]
 [StateId::] 
 [Population::] 
 
+# [[Valletta]]
 
+## #has_/map 
 
 ```leaflet
 id: Valletta
+defaultZoom: 11 
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Valletta/
+markerFolder: ./Valletta/
 coordinates: [[Valletta]] 
 markerFile: [[Valletta]] 
-defaultZoom: 11 
-maxZoom: 18
 ```
 
 
