@@ -33,7 +33,7 @@ located_in_on_physical_feature: "[[_Standards/WikiData/WD~Malta,193896]]"
 named_after: "[[_Standards/WikiData/WD~Jean_de_Valette_Parisot,264097]]"
 founded_by: "[[_Standards/WikiData/WD~Jean_de_Valette_Parisot,264097]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
