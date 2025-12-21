@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Malta
+  - Malte
+  - مالطة
+  - 马耳他
+  - Мальта
+  - the Republic of Malta
+  - la República de Malta
+  - ReadMe
 location:
   - 35.9
   - 14.52
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Malta
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Malta
-  - Malte
-  - مالطة
-  - 马耳他
-  - Мальта
-  - the Republic of Malta
-  - la República de Malta
+publishDate: ''
+expiryDate: ''
 Languages:
   - mt
   - en-MT

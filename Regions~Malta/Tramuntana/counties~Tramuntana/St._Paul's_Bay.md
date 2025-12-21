@@ -1,4 +1,7 @@
 ---
+aliases:
+  - St._Paul's_Bay
+  - St. Paul's Bay
 location:
   - 35.94
   - 14.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - St._Paul's_Bay
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # St._Paul's_Bay

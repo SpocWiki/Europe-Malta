@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Fontana,_Gozo
+  - Fontana, Gozo
 location:
   - 36.033
   - 14.24
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Fontana,_Gozo
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Fontana,_Gozo

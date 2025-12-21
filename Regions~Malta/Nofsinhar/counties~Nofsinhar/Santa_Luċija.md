@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Santa_Luċija
+  - Santa Luċija
 location:
   - 35.855
   - 14.502
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Santa_Luċija
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Santa_Luċija

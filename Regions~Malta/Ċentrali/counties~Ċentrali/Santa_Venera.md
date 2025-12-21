@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Santa_Venera
+  - Santa Venera
 location:
   - 35.89
   - 14.48
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Santa_Venera
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Santa_Venera

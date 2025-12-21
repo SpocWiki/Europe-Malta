@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ta'_Xbiex
+  - Ta' Xbiex
 location:
   - 35.894
   - 14.495
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Ta'_Xbiex
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Ta'_Xbiex
