@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.52
 dv_has_place_latitude: 35.9
-dv_name: Valletta
+dv_has_name_: Valletta
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Valletta,23800|WD~Valletta,23800]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Valletta,23800|WD~Valletta,23800]]"
