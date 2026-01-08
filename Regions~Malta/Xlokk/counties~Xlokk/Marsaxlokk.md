@@ -40,17 +40,17 @@ markerFolder: ./Marsaxlokk/
 
 ## Confidential Links & Embeds: 
 
-### [Marsaxlokk](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Marsaxlokk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Marsaxlokk|Marsaxlokk]] 
 
-### [Marsaxlokk.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Marsaxlokk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Marsaxlokk.public|Marsaxlokk.public]] 
 
-### [Marsaxlokk.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Marsaxlokk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Marsaxlokk.internal|Marsaxlokk.internal]] 
 
-### [Marsaxlokk.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Marsaxlokk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Marsaxlokk.protect|Marsaxlokk.protect]] 
 
-### [Marsaxlokk.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Marsaxlokk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Marsaxlokk.private|Marsaxlokk.private]] 
 
-### [Marsaxlokk.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Marsaxlokk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Marsaxlokk.personal|Marsaxlokk.personal]] 
 
-### [Marsaxlokk.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Marsaxlokk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Marsaxlokk.secret|Marsaxlokk.secret]] 
 

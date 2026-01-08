@@ -40,17 +40,17 @@ markerFolder: ./Żejtun/
 
 ## Confidential Links & Embeds: 
 
-### [Żejtun](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Żejtun.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Żejtun|Żejtun]] 
 
-### [Żejtun.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Żejtun.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Żejtun.public|Żejtun.public]] 
 
-### [Żejtun.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Żejtun.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Żejtun.internal|Żejtun.internal]] 
 
-### [Żejtun.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Żejtun.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Żejtun.protect|Żejtun.protect]] 
 
-### [Żejtun.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Żejtun.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Żejtun.private|Żejtun.private]] 
 
-### [Żejtun.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Żejtun.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Żejtun.personal|Żejtun.personal]] 
 
-### [Żejtun.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Żejtun.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Żejtun.secret|Żejtun.secret]] 
 

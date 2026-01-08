@@ -40,17 +40,17 @@ markerFolder: ./Senglea/
 
 ## Confidential Links & Embeds: 
 
-### [Senglea](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Senglea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Senglea|Senglea]] 
 
-### [Senglea.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Senglea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Senglea.public|Senglea.public]] 
 
-### [Senglea.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Senglea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Senglea.internal|Senglea.internal]] 
 
-### [Senglea.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Senglea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Senglea.protect|Senglea.protect]] 
 
-### [Senglea.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Senglea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Senglea.private|Senglea.private]] 
 
-### [Senglea.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Senglea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Senglea.personal|Senglea.personal]] 
 
-### [Senglea.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Senglea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Senglea.secret|Senglea.secret]] 
 

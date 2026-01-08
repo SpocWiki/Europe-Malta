@@ -41,17 +41,17 @@ markerFolder: ./Ta'_Xbiex/
 
 ## Confidential Links & Embeds: 
 
-### [Ta'_Xbiex](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Ta'_Xbiex.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Ta'_Xbiex|Ta'_Xbiex]] 
 
-### [Ta'_Xbiex.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Ta'_Xbiex.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Ta'_Xbiex.public|Ta'_Xbiex.public]] 
 
-### [Ta'_Xbiex.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Ta'_Xbiex.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Ta'_Xbiex.internal|Ta'_Xbiex.internal]] 
 
-### [Ta'_Xbiex.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Ta'_Xbiex.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Ta'_Xbiex.protect|Ta'_Xbiex.protect]] 
 
-### [Ta'_Xbiex.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Ta'_Xbiex.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Ta'_Xbiex.private|Ta'_Xbiex.private]] 
 
-### [Ta'_Xbiex.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Ta'_Xbiex.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Ta'_Xbiex.personal|Ta'_Xbiex.personal]] 
 
-### [Ta'_Xbiex.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Ta'_Xbiex.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Ċentrali/counties~Ċentrali/Ta'_Xbiex.secret|Ta'_Xbiex.secret]] 
 

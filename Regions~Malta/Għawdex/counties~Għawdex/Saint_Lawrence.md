@@ -41,17 +41,17 @@ markerFolder: ./Saint_Lawrence/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Lawrence](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence|Saint_Lawrence]] 
 
-### [Saint_Lawrence.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.public|Saint_Lawrence.public]] 
 
-### [Saint_Lawrence.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.internal|Saint_Lawrence.internal]] 
 
-### [Saint_Lawrence.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.protect|Saint_Lawrence.protect]] 
 
-### [Saint_Lawrence.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.private|Saint_Lawrence.private]] 
 
-### [Saint_Lawrence.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.personal|Saint_Lawrence.personal]] 
 
-### [Saint_Lawrence.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Saint_Lawrence.secret|Saint_Lawrence.secret]] 
 

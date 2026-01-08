@@ -5,11 +5,14 @@ instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
 facet_of: "[[_Standards/WikiData/WD~Malta,233]]"
 Commons_gallery: Malta
 Commons_category: History of Malta
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Malta,243842]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Malta,243842]]"
 ---
 
 # [[History_of_Malta]] 
 
-#is_/same_as :: [[WD~History_of_Malta,243842]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -58,4 +61,21 @@ Commons_category: History of Malta
 > In 1964 Malta became an independent Commonwealth realm known as the State of Malta, and in 1974 it became a republic while remaining in the Commonwealth. Since 2004 the country has been a member state of the European Union.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Malta) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Malta/History_of_Malta|History_of_Malta]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Malta/History_of_Malta.public|History_of_Malta.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Malta/History_of_Malta.internal|History_of_Malta.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Malta/History_of_Malta.protect|History_of_Malta.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Malta/History_of_Malta.private|History_of_Malta.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Malta/History_of_Malta.personal|History_of_Malta.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Malta/History_of_Malta.secret|History_of_Malta.secret]] 
 

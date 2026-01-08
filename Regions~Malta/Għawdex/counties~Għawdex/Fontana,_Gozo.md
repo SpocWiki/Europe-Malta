@@ -41,17 +41,17 @@ markerFolder: ./Fontana,_Gozo/
 
 ## Confidential Links & Embeds: 
 
-### [Fontana,_Gozo](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo|Fontana,_Gozo]] 
 
-### [Fontana,_Gozo.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.public|Fontana,_Gozo.public]] 
 
-### [Fontana,_Gozo.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.internal|Fontana,_Gozo.internal]] 
 
-### [Fontana,_Gozo.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.protect|Fontana,_Gozo.protect]] 
 
-### [Fontana,_Gozo.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.private|Fontana,_Gozo.private]] 
 
-### [Fontana,_Gozo.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.personal|Fontana,_Gozo.personal]] 
 
-### [Fontana,_Gozo.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Għawdex/counties~Għawdex/Fontana,_Gozo.secret|Fontana,_Gozo.secret]] 
 

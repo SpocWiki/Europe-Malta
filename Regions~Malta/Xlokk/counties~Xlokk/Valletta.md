@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.52
+dv_has_place_latitude: 35.9
+dv_name: Valletta
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Valletta,23800|WD~Valletta,23800]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Valletta,23800|WD~Valletta,23800]]"
+
 has_time_started: 1566-01-01 
 aliases:
   - Valletta
@@ -87,15 +95,15 @@ U_S_National_Archives_Identifier: 10044726
 # [[Valletta]]
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.52] 
-[has_place_latitude::35.9] 
-[name::Valletta] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../Malta]]  
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Valletta,23800|WD~Valletta,23800]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -127,17 +135,17 @@ markerFile: [[Valletta]]
 
 ## Confidential Links & Embeds: 
 
-### [Valletta](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Valletta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Valletta|Valletta]] 
 
-### [Valletta.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Valletta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Valletta.public|Valletta.public]] 
 
-### [Valletta.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Valletta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Valletta.internal|Valletta.internal]] 
 
-### [Valletta.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Valletta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Valletta.protect|Valletta.protect]] 
 
-### [Valletta.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Valletta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Valletta.private|Valletta.private]] 
 
-### [Valletta.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Valletta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Valletta.personal|Valletta.personal]] 
 
-### [Valletta.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Valletta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Xlokk/counties~Xlokk/Valletta.secret|Valletta.secret]] 
 

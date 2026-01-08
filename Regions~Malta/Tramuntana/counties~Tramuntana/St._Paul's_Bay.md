@@ -41,17 +41,17 @@ markerFolder: ./St._Paul's_Bay/
 
 ## Confidential Links & Embeds: 
 
-### [St._Paul's_Bay](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay|St._Paul's_Bay]] 
 
-### [St._Paul's_Bay.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.public|St._Paul's_Bay.public]] 
 
-### [St._Paul's_Bay.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.internal|St._Paul's_Bay.internal]] 
 
-### [St._Paul's_Bay.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.protect|St._Paul's_Bay.protect]] 
 
-### [St._Paul's_Bay.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.private|St._Paul's_Bay.private]] 
 
-### [St._Paul's_Bay.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.personal|St._Paul's_Bay.personal]] 
 
-### [St._Paul's_Bay.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Malta/Regions~Malta/Tramuntana/counties~Tramuntana/St._Paul's_Bay.secret|St._Paul's_Bay.secret]] 
 

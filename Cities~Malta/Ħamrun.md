@@ -40,17 +40,17 @@ markerFolder: ./Ħamrun/
 
 ## Confidential Links & Embeds: 
 
-### [Ħamrun](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun|Ħamrun]] 
 
-### [Ħamrun.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.public|Ħamrun.public]] 
 
-### [Ħamrun.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.internal|Ħamrun.internal]] 
 
-### [Ħamrun.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.protect|Ħamrun.protect]] 
 
-### [Ħamrun.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.private|Ħamrun.private]] 
 
-### [Ħamrun.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.personal|Ħamrun.personal]] 
 
-### [Ħamrun.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Ħamrun.secret|Ħamrun.secret]] 
 

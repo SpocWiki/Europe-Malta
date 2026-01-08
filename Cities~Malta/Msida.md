@@ -40,17 +40,17 @@ markerFolder: ./Msida/
 
 ## Confidential Links & Embeds: 
 
-### [Msida](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Msida.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Msida|Msida]] 
 
-### [Msida.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Msida.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Msida.public|Msida.public]] 
 
-### [Msida.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Msida.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Msida.internal|Msida.internal]] 
 
-### [Msida.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Msida.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Msida.protect|Msida.protect]] 
 
-### [Msida.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Msida.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Msida.private|Msida.private]] 
 
-### [Msida.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Msida.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Msida.personal|Msida.personal]] 
 
-### [Msida.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Msida.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Msida.secret|Msida.secret]] 
 

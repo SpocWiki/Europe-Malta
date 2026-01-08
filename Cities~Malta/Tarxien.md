@@ -40,17 +40,17 @@ markerFolder: ./Tarxien/
 
 ## Confidential Links & Embeds: 
 
-### [Tarxien](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien|Tarxien]] 
 
-### [Tarxien.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.public|Tarxien.public]] 
 
-### [Tarxien.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.internal|Tarxien.internal]] 
 
-### [Tarxien.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.protect|Tarxien.protect]] 
 
-### [Tarxien.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.private|Tarxien.private]] 
 
-### [Tarxien.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.personal|Tarxien.personal]] 
 
-### [Tarxien.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Tarxien.secret|Tarxien.secret]] 
 

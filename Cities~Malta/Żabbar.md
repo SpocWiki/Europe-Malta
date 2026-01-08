@@ -40,17 +40,17 @@ markerFolder: ./Żabbar/
 
 ## Confidential Links & Embeds: 
 
-### [Żabbar](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Żabbar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Żabbar|Żabbar]] 
 
-### [Żabbar.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Żabbar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Żabbar.public|Żabbar.public]] 
 
-### [Żabbar.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Żabbar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Żabbar.internal|Żabbar.internal]] 
 
-### [Żabbar.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Żabbar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Żabbar.protect|Żabbar.protect]] 
 
-### [Żabbar.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Żabbar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Żabbar.private|Żabbar.private]] 
 
-### [Żabbar.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Żabbar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Żabbar.personal|Żabbar.personal]] 
 
-### [Żabbar.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Żabbar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Żabbar.secret|Żabbar.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Floriana/
 
 ## Confidential Links & Embeds: 
 
-### [Floriana](/_Standards/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Floriana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Floriana|Floriana]] 
 
-### [Floriana.public](/_public/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Floriana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Floriana.public|Floriana.public]] 
 
-### [Floriana.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Floriana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Floriana.internal|Floriana.internal]] 
 
-### [Floriana.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Floriana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Floriana.protect|Floriana.protect]] 
 
-### [Floriana.private](/_private/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Floriana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Floriana.private|Floriana.private]] 
 
-### [Floriana.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Floriana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Floriana.personal|Floriana.personal]] 
 
-### [Floriana.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Floriana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Malta/Cities~Malta/Floriana.secret|Floriana.secret]] 
 
